@@ -16,7 +16,7 @@ public class MyController {
 
     @GetMapping("/hello")
     public String getSecondResponse(){
-        return "Hello jack";
+        return "Hello";
     }
 
 
